@@ -13,7 +13,7 @@
 ## Example Usage:
 
 ```commandline
-python near_miss_demo_code.py process_stream --video_src rtsp://vssod.dot.ga.gov:80/hi/atl-cam-086.stream --crossway_file json/online_cam_86.json 
+python near_miss_demo_code.py process_stream --video_src rtsp://vssod.dot.ga.gov:80/hi/atl-cam-086.stream --crossway_file json/online_cam_86.json
 ```
 
 ## Demo Environment
